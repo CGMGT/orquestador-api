@@ -1,7 +1,7 @@
-### Backend Tigo Orquestador Network
+### Backend Orquestador Network
 ###### Version 1.0
 
-Servicios REST para Tigo Orquestador Network.
+Servicios REST para Orquestador Network.
 
 ## Configuration
 - Spring Boot 2.7.1
@@ -16,7 +16,7 @@ Servicios REST para Tigo Orquestador Network.
 ## Usage
 #### Clone repository
 ```
-git clone https://gitlab-bsd.tigo.com.gt/BSD-APPS/Instalaciones-Tecnicas/integradortivoli_click_2_0/src.git
+git clone https://github.com/CGMGT/orquestador-api/src.git
 ```
 #### Project information
 ```
